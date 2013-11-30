@@ -1,0 +1,5 @@
+||:org.word.editor.uppercase.UppercaseFilter
+java.lang.Object
+java.lang.String
+org.word.editor.uppercase.UppercaseFilter
+org.word.editor.api.WordFilter

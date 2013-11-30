@@ -1,0 +1,7 @@
+C:\Program Files (x86)\NetBeans 7.4\platform=1385190233397
+cluster.D:/netbeans/huangyr/NetBeansProjects/WordProcess/build/cluster=1385797627698
+cluster.C:/Program Files (x86)/NetBeans 7.4/platform=1385190233397
+user=1385797627698
+crc=7
+locale=zh_CN
+branding=wordprocess
